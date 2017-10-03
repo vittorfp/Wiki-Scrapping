@@ -13,5 +13,3 @@ At the end of the script, the data should be organized as a data-frame with colu
 * "relationships"
 * "sources"
 * "categories" 
-
-Feel free to make anything you want with this, but remember who did it (in the remote case it helps somebody).
