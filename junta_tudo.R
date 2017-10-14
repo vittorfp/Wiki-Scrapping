@@ -10,3 +10,4 @@ for(n in 1:163){
 }
 print("Concluido! Banco de dados unificado na variável \'bd\'.")
 save(bd,file="~/astro-data/bd.rda")
+write.csv(bd,file = 'astro.csv')
